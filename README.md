@@ -1,2 +1,4 @@
 # Customized-3D-Printing-Programming-
-sdasdasdas
+3D printer usually prints layer by layer, but printing at Z direction opens up more design opportunities and better aesthetics.
+This project started with interest in printing frames for forms. Cubic frame with curved top and multiple levels are tested. However, the experiments finds that there are number of limitations such as nozzle length, unstable extrusion, etc. Even if feed rate and extrusion rate are adjusted, the Dremel printer was not able to print as we expected.
+Therefore, the team decided to take the data and parameters from the frame text to design printing patterns for any form. The nozzle moves up and down to generate arc or wave toolpaths, which improves efficiency of printing and create a translucent visual. The team will be keep experimenting on variations of patterns and creating a library for light frame printing for any form.
