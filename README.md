@@ -17,6 +17,6 @@ Install Rhinoceros 7 for the files.
 ## Usage
 
 1. Refer to the given example Rhino file to see base geometries. 
-2. Assign geometries to the grasshopper file for toolpath generation
+2. Assign geometries to the grasshopper file for toolpath generation.
 
 
