@@ -1,28 +1,22 @@
 # Customized-3D-Printing-Programming
 
-A short description of the project.
+3D printer usually prints layer by layer, but printing at Z direction opens up more design opportunities and better aesthetics.
+This project takes the data and parameters from the frame text to design printing patterns for any form. The nozzle moves up and down to generate arc or wave toolpaths, which improves efficiency of printing and create a translucent visual. The team will be keep experimenting on variations of patterns and creating a library for light frame printing for any form.
+
+To learn more, visit the [project website]([https://github.com/](https://beichenxie.myportfolio.com/morph-heph)).
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
-1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Run the project using `npm start`.
+Install Rhinoceros 7 for the files.
 
 ## Usage
 
-Describe how to use the project, provide examples, and explain its features.
+1. Refer to the given example Rhino file to see base geometries. 
+2. Assign geometries to the grasshopper file for toolpath generation
 
-## Contributing
 
-Thank you for considering contributing to this project! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
